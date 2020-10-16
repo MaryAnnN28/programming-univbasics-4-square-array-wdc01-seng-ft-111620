@@ -21,5 +21,5 @@ count = 0
   newer_numbers << new_numbers[count] * new_numbers[count]
   count += 1
   end
-  newer_numbers
+  new_numbers and newer_numbers
 end

@@ -13,7 +13,7 @@ end
 
 
 def square_array(new_numbers)
-  new_numbers = [9,10,16,25]
+  #new_numbers = [9,10,16,25]
 newer_numbers = []
 count = 0
 
